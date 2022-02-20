@@ -2,7 +2,9 @@
 title: "Test"
 author: "Karl Edom"
 date: "21/02/2022"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
